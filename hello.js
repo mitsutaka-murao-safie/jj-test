@@ -1,6 +1,4 @@
+console.log("hello world!!");
 
-
- console.log("hello world!!");
-+
-+console.log('こんにちは');
+console.log('こんにちは');
 
