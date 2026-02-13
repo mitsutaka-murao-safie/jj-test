@@ -10,4 +10,5 @@ console.log('デプロイ準備完了');
 console.log("hahaha");
 console.log("メインで追加");  
 console.log("describeで追加");
+console.log("featureで追加");
 
